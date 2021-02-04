@@ -1,0 +1,53 @@
+body {
+  font-family: arial !important;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+
+.mac {
+  background-image: url("./assets/images/image8.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.borderStyle {
+  border-radius: 10px;
+}
+
+.thirdSection {
+  background-color: #ff5733;
+}
+
+#middleImage {
+  background-size: auto;
+  border-radius: 10px;
+}
+
+.titleColor {
+  color: antiquewhite;
+}
+
+.distinctive {
+  color: #ff5733;
+}
+
+.fourthSection {
+  background-image: url("./assets/images/image8.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: aliceblue;
+}
+#trans {
+  background: transparent;
+  z-index: -1;
+}
+
+.btn-default{
+  color: #ff5733;
+  border-color: #ff5733;
+}
